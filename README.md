@@ -1,7 +1,22 @@
 # 🧩 Task 8: Run a Simple Java Maven Build Job in Jenkins
 
 ## 🎯 Objective
+<img width="1920" height="1080" alt="Screenshot (473)" src="https://github.com/user-attachments/assets/a66f793b-c1df-475e-b63a-6068f57ea28e" />
+
 Use **Jenkins** and **Maven** to build a simple Java application — your first step into CI/CD automation.
+
+
+<img width="1920" height="1080" alt="Screenshot (475)" src="https://github.com/user-attachments/assets/0db20b22-ee5a-4d8c-8db2-a6ea1d0ee4b9" />
+
+
+<img width="1920" height="1080" alt="Screenshot (479)" src="https://github.com/user-attachments/assets/107cc1c5-492e-4dc3-9dbd-aebb3c195c68" />
+
+
+<img width="1920" height="1080" alt="Screenshot (481)" src="https://github.com/user-attachments/assets/850d99f8-cbd3-42c0-936b-31682aa9cb1a" />
+
+
+<img width="1920" height="1080" alt="Screenshot (483)" src="https://github.com/user-attachments/assets/fcb5c15e-a4ee-4008-8db4-fe73144c933d" />
+
 
 ---
 
@@ -72,3 +87,7 @@ Copy code
 Just place your screenshot in the repo (same folder as README) and name it `screenshot.png` so it displays correctly.
 
 Would you like me to include a one-line **troubleshooting tip** section (for Maven/JDK errors) at 
+
+---
+=
+
